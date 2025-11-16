@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "products": "Products",
+    "blog": "Blog",
+    "contact": "Contact",
+    "login": "Sign In",
+    "profile": "My Profile"
+  },
+  "search": {
+    "placeholder": "Search products..."
+  },
+  "header": {
+    "follow_us": "Follow us:",
+    "unverified": "Your email is not verified. Check your inbox or resend the verification email.",
+    "resend": "Resend verification"
+  },
+  "footer": {
+    "description": "An online store dedicated to bringing the freshness and quality of farm products directly to our customers' doors in Chile.",
+    "contact_title": "Contact",
+    "quick_links_title": "Quick Links",
+    "rights": "All rights reserved.",
+    "built_by": "Built with",
+    "scroll_top_label": "Back to top"
+  },
+  "auth": {
+    "login_title": "Sign In",
+    "login_subtitle": "Enter your account to continue",
+    "unverified_after_login": "Your email is not verified. We sent you a verification email. Check your inbox or resend it.",
+    "login_error": "Couldn't sign in. Please check your credentials.",
+    "resend_prompt": "Didn't get the email?",
+    "verification_resent": "Verification sent. Please check your inbox.",
+    "logging_in": "Signing in...",
+    "no_account": "Don't have an account?",
+    "forgot_password": "I forgot my password"
+  },
+  "buttons": {
+    "sign_in": "Sign In",
+    "sign_up": "Sign Up"
+  },
+  "labels": {
+    "email_placeholder": "email@example.com",
+    "password_placeholder": "********",
+    "password": "Password"
+  },
+  "errors": {
+    "try_again_later": "Couldn't complete the action. Please try again later."
+  },
+  "auth.errors": {
+    "email_in_use": "An account with this email already exists",
+    "invalid_email": "The email address is invalid",
+    "weak_password": "The password is too weak",
+    "network_error": "Network error. Please check your connection and try again.",
+    "wrong_password": "Incorrect password",
+    "user_not_found": "No account found with this email",
+    "too_many_requests": "Too many attempts. Please try again later."
+  },
+  "auth.show_password": "Show password",
+  "auth.hide_password": "Hide password",
+  "product_detail": {
+    "not_found": "Product not found",
+    "back_to_products": "Back to products",
+    "breadcrumb_home": "Home",
+    "breadcrumb_products": "Products",
+    "reviews": "reviews",
+    "description": "Description",
+    "features": "Features",
+    "quantity": "Quantity",
+    "add_to_cart": "Add to Cart",
+    "buy_now": "Buy Now",
+    "free_shipping": "Free shipping on orders over $15,000",
+    "fresh_guarantee": "Freshness guarantee"
+  },
+  "profile": {
+    "title": "My Account",
+    "tab_profile": "Profile",
+    "tab_security": "Security",
+    "tab_orders": "My Orders",
+    "save_changes": "Save Changes",
+    "update_password": "Update Password",
+    "logout": "Log Out",
+    "view_orders": "View my orders"
+  }
+}
